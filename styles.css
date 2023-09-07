@@ -1,0 +1,15 @@
+.krewTitle {
+  text-align: center;
+  color: #1bc2fa;
+  font-size: xx-large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.krewGameImg {
+  text-align: left;
+}
+.krewImg {
+  padding-bottom: 55%;
+}
+.bordered-table {
+  padding-top: 20% cellpadding= "20" width= "1650" height= "400";
+}
